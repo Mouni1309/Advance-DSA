@@ -1,13 +1,13 @@
 # DSA Training
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KarthikSarika/Advance-DSA)
-![GitHub last commit](https://img.shields.io/github/last-commit/KarthikSarika/Advance-DSA)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mouni1309/Advance-DSA)
+![GitHub last commit](https://img.shields.io/github/last-commit/Mouni1309/Advance-DSA)
 
 ## Getting Started
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/KarthikSarika/Advance-DSA.git
+   git clone https://github.com/Mouni1309/Advance-DSA.git
 
 
 This repository contains solutions and exercises from my Data Structures and Algorithms (DSA) training. Each day's problems are organized into their respective `DAYX` folders.
